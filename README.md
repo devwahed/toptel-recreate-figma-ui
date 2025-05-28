@@ -22,6 +22,13 @@ Continue building your app on:
 
 **[https://v0.dev/chat/projects/rHlsooaQXIc](https://v0.dev/chat/projects/rHlsooaQXIc)**
 
+### ✅ 1. Clone the Repository
+git clone https://github.com/devwahed/toptel-recreate-figma-ui.git
+cd toptel-recreate-figma-ui
+npm install next react react-dom
+npm run dev
+
+
 ## How It Works
 
 1. Create and modify your project using [v0.dev](https://v0.dev)
